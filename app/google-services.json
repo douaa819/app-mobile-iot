@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861306236838",
+    "project_id": "smartsecurityfirebase",
+    "storage_bucket": "smartsecurityfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861306236838:android:47052a988a7f6eb0e3a967",
+        "android_client_info": {
+          "package_name": "com.example.smartsecurityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_h3qVPvDRb8gFq8mCaChsiODxg1PnK_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
